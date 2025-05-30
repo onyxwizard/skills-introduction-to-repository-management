@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @onyxwizard
+/src/backend/database.py      @onyxwizard
+/src/backend/routers/auth.py  @onyxwizard
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @onyxwizard
